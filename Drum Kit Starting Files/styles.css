@@ -17,30 +17,60 @@ footer {
 }
 
 .w {
-
+background-image:url("./images/tom1.png");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
 }
 
 .a {
+  background-color: #DA0463;
+  background-image: url("./images/tom2.png");
+  background-size:auto;
+  background-repeat:inherit;
+  background-position: center;
 
 }
 
 .s {
+    background-color: #DA0463;
+  background-image: url("./images/tom2.png");
+  background-size:auto;
+  background-repeat:inherit;
+  background-position: center;
 
 }
 
 .d {
-
+  background-color: #DA0463;
+  background-image: url("./images/kick.png");
+  background-size:auto;
+  background-repeat:inherit;
+  background-position: center;
 }
 
 .j {
-
+  background-color: #DA0463;
+  background-image: url("./images/snare.png");
+  background-size:auto;
+  background-repeat:inherit;
+  background-position: center;
 }
 
 .k {
-
+  background-color: #DA0463;
+  background-image: url("./images/tom4.png");
+  background-size:auto;
+  background-repeat:inherit;
+  background-position: center;
 }
 
 .l {
+    background-color: #DA0463;
+  background-image: url("./images/tom3.png");
+  background-size:auto;
+  background-repeat:inherit;
+  background-position: center;
 
 }
 
